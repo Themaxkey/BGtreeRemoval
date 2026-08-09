@@ -1,0 +1,21 @@
+---
+import { site } from '../../site.config';
+const path = Astro.url.pathname;
+---
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="brand" href="/">
+      <img src={site.brand.logo} alt={`${site.business.name} logo`} width="46" height="46" />
+      <span>
+        <strong>{site.business.name}</strong>
+        <span>{site.location.city}, {site.location.stateAbbr}</span>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      {site.nav.map(item => (
+        <a href={item.href} aria-current={path === item.href ? 'page' : undefined}>{item.label}</a>
+      ))}
+    </nav>
+    <a class="tel-btn" href={`tel:${site.business.phoneRaw}`}>{site.business.phone}</a>
+  </div>
+</header>

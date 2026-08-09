@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "bg-tree-removal",
+  "main": "src/server/worker.ts",
+  "compatibility_date": "2026-08-01",
+
+  // Astro builds static HTML into ./dist. Cloudflare serves those files
+  // directly from its edge — static asset requests are free and unlimited.
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+
+  "observability": { "enabled": true }
+}

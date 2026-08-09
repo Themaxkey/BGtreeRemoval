@@ -1,0 +1,29 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const entry = await getEntry('pages', 'faq');
+const faqs  = await getCollection('faqs');
+const { Content } = entry ? await render(entry) : { Content: null as any };
+const d: any = entry?.data ?? {
+  title: 'Tree Service FAQs',
+  seoTitle: 'Tree Service FAQs | Bowling Green, KY',
+  description: 'Answers to common tree service questions in Bowling Green, Kentucky.',
+};
+---
+<BaseLayout seoTitle={d.seoTitle} description={d.description} pageType="faq">
+  <div class="wrap page-head">
+    <h1>{d.title}</h1>
+  </div>
+  <div class="wrap">
+    {Content && <article class="prose"><Content /></article>}
+    <div class="grid">
+      {faqs.map(f => (
+        <a class="card" href={`/faq/${f.id}/`}>
+          <strong>{f.data.title}</strong>
+          <span>{f.data.description}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
