@@ -9,7 +9,7 @@ Alvaton lies roughly nine miles southeast of Bowling Green along the US 231 Scot
 
 ## Tree Removal in Alvaton, KY
 
-Drakes Creek is what makes tree work around Alvaton distinctive. Creek bottoms grow a different set of trees from the surrounding uplands — sycamore, river birch, black willow, silver maple and box elder all favour wet ground — and those species behave differently when they fail. They grow fast, they grow large, and their wood is comparatively weak. Silver maple in particular is notorious for shedding limbs in storms.
+Drakes Creek is what makes tree work around Alvaton distinctive. Creek bottoms grow a different set of trees from the surrounding uplands — sycamore, river birch, black willow, silver maple and box elder all favor wet ground — and those species behave differently when they fail. They grow fast, they grow large, and their wood is comparatively weak. Silver maple in particular is notorious for shedding limbs in storms.
 
 ## Creek Banks and Root Plates
 
