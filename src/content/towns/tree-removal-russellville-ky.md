@@ -37,7 +37,7 @@ The flip side is that these are often trees worth keeping. Where a defect can be
 
 Russellville sits among low hills in the valley of Town Branch, a north-flowing stream feeding the Mud River and eventually the Green. The Red River runs through the central and western parts of Logan County. That means a fair amount of low, wet ground, and wet ground grows a distinct set of trees.
 
-Sycamore, silver maple, box elder and black willow all favour creek bottoms. They grow fast, reach substantial size, and have comparatively weak wood, so they feature heavily in storm damage. Silver maple in particular drops limbs readily once mature.
+Sycamore, silver maple, box elder and black willow all favor creek bottoms. They grow fast, reach substantial size, and have comparatively weak wood, so they feature heavily in storm damage. Silver maple in particular drops limbs readily once mature.
 
 The less obvious risk on creek-side property is erosion. Moving water undermines a root plate gradually and out of sight, so a tree can carry a full healthy canopy while the soil anchoring it on the bank side is quietly being carried away. The first visible symptom is often a lean that appears after a wet spring, by which point the tree has already moved.
 
