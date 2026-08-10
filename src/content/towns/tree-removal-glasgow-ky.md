@@ -13,7 +13,7 @@ Glasgow sits in the same karst country as the rest of south-central Kentucky —
 
 The first is anchorage. Where bedrock is close to the surface, roots spread sideways instead of down, so even a healthy tree can be poorly held once heavy rain saturates the ground. The second is stump grinding depth, which is simply limited by how far down the rock sits. If you intend to replant or build over a stump, it is worth mentioning before we quote.
 
-## South Green Street and the Older Neighbourhoods
+## South Green Street and the Older Neighborhoods
 
 Glasgow has historic homes dating to the early 1800s along South Green Street and elsewhere, in Colonial, Federal and Victorian styles. Streets like that carry the town’s biggest and oldest trees, growing close to buildings that have stood for two centuries. Removals there are careful sectional work, and quite often the better recommendation is pruning to retain the tree rather than taking it out.
 
