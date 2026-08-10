@@ -43,6 +43,7 @@ img { max-width: 100%; height: auto; display: block; }
   position: sticky; top: 0; z-index: 50;
   background: #fff; border-bottom: 1px solid var(--line);
 }
+.site-header .bar { position: relative; }
 .site-header .bar {
   display: flex; align-items: center; gap: 1.25rem;
   min-height: 74px;
@@ -105,21 +106,36 @@ img { max-width: 100%; height: auto; display: block; }
 .menu-toggle .bars::after  { top: 6px; }
 .menu-toggle[aria-expanded="true"] { background: var(--surface); border-color: var(--primary); }
 
-/* ---------- mobile panel ---------- */
-.mobile-nav { display: none; border-top: 1px solid var(--line); background: #fff; }
-.mobile-nav .wrap { padding-block: .5rem 1rem; }
-.mobile-nav a {
-  display: block; padding: .8rem .25rem; color: var(--ink); text-decoration: none;
-  border-bottom: 1px solid var(--line); font-weight: 500;
+/* ---------- mobile dropdown panel ---------- */
+/* Floats over the page rather than pushing it down, and is capped in height
+   so it never swallows the screen. [hidden] must win over the media query. */
+.mobile-nav {
+  display: none;
+  position: absolute; top: calc(100% - 4px); right: 16px;
+  width: min(330px, calc(100vw - 32px));
+  max-height: min(66vh, 460px); overflow-y: auto; overscroll-behavior: contain;
+  background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+  box-shadow: 0 18px 44px rgba(0,0,0,.18);
+  z-index: 70;
 }
-.mobile-nav details > a { padding-left: 1.1rem; font-weight: 400; color: var(--body); }
+.mobile-nav[hidden] { display: none !important; }
+.mobile-nav .wrap { padding: .35rem .9rem .6rem; max-width: none; }
+.mobile-nav a {
+  display: block; padding: .62rem .1rem; color: var(--ink); text-decoration: none;
+  border-bottom: 1px solid var(--line); font-weight: 500; font-size: .95rem;
+}
+.mobile-nav > .wrap > a:last-child { border-bottom: 0; }
+.mobile-nav details > a {
+  padding-left: .9rem; font-weight: 400; color: var(--body); font-size: .92rem;
+}
 .mobile-nav summary {
-  padding: .8rem .25rem; border-bottom: 1px solid var(--line);
-  font-weight: 600; cursor: pointer; list-style: none; color: var(--ink);
+  padding: .62rem .1rem; border-bottom: 1px solid var(--line);
+  font-weight: 600; cursor: pointer; list-style: none; color: var(--ink); font-size: .95rem;
 }
 .mobile-nav summary::-webkit-details-marker { display: none; }
-.mobile-nav summary::after { content: " +"; float: right; opacity: .5; }
-.mobile-nav details[open] summary::after { content: " \2013"; }
+.mobile-nav summary::after { content: "+"; float: right; opacity: .5; }
+.mobile-nav details[open] summary::after { content: "\2013"; }
+.mobile-nav details[open] { padding-bottom: .3rem; }
 
 .tel-btn {
   background: var(--primary); color: #fff; text-decoration: none;
@@ -130,11 +146,10 @@ img { max-width: 100%; height: auto; display: block; }
 @media (max-width: 900px) {
   .site-nav { display: none; }
   .menu-toggle { display: inline-flex; }
-  .mobile-nav { display: block; }
+  .mobile-nav:not([hidden]) { display: block; }
   .site-header .bar { min-height: 64px; gap: .6rem; }
   .brand span span { display: none; }
   .tel-btn { padding: .55rem .8rem; font-size: .9rem; }
-  body.nav-open { overflow: hidden; }
 }
 @media (max-width: 420px) {
   .menu-toggle .menu-label { display: none; }
@@ -220,4 +235,5 @@ main { padding-bottom: 3rem; }
 .lead-form button:hover { background: var(--primary-dk); }
 .lead-form .hp { position: absolute; left: -9999px; width: 1px; height: 1px; }
 .form-note { font-size: .82rem; color: var(--muted); margin-top: 1rem; }
+
 
