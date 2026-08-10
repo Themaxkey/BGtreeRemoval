@@ -54,10 +54,10 @@ export const site = {
   services: [
     { slug: 'tree-removal',           name: 'Tree Removal' },
     { slug: 'emergency-tree-removal', name: 'Emergency Tree Removal' },
-    { slug: 'tree-pruning',           name: 'Tree Pruning' },
-    { slug: 'stump-grinding',         name: 'Stump Grinding' },
+    { slug: 'tree-pruning',           name: 'Tree Trimming' },
+    { slug: 'stump-grinding',         name: 'Tree Stump Removal' },
     { slug: 'storm-cleanup',          name: 'Storm Cleanup' },
-    { slug: 'commercial-clearing',    name: 'Commercial Clearing' },
+    { slug: 'commercial-clearing',    name: 'Commercial Tree Removal' },
   ],
 
   /** Towns served. Slug pattern must stay `tree-removal-<town>-ky`. */
