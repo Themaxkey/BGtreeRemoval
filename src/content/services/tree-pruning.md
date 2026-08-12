@@ -2,6 +2,8 @@
 title: "Tree Trimming in Bowling Green, KY"
 seoTitle: "Tree Trimming Bowling Green, KY | Residential & Commercial"
 description: "Tree trimming in Bowling Green, KY and Warren County. Residential and commercial tree trimming services, storm-proofing and canopy work. Call (270) 721-7671."
+hero: "tree-trimming-bucket-truck-bowling-green-ky.jpg"
+heroAlt: "Bucket truck tree trimming on a residential street in Bowling Green, Kentucky"
 order: 2
 ---
 
@@ -76,4 +78,3 @@ Bowling Green’s humid summers and clay-heavy soil push many yard trees toward 
 ## Schedule Tree Trimming in Bowling Green
 
 Call (270) 721-7671 today to schedule tree pruning in Bowling Green, KY or Warren County.
-
