@@ -2,10 +2,10 @@
 title: "Bowling Green Tree Removal"
 seoTitle: "Tree Removal Bowling Green, KY | 24/7 Emergency Service"
 description: "Fast, safe tree removal in Bowling Green, KY & Warren County. 24/7 emergency storm cleanup, trimming, stump grinding. Call now for a free estimate!"
+hero: "home-fallen-tree-across-road-bowling-green-ky.jpg"
+heroAlt: "Crew clearing a fallen tree blocking a residential road in Bowling Green, Kentucky"
 tagline: "Fast, safe removal of storm-damaged and hazardous trees — serving homes and businesses throughout Bowling Green and Warren County."
 ---
-
-## About Us
 
 ## Our Services
 
