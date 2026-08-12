@@ -2,6 +2,8 @@
 title: "Tree Removal in Bowling Green, KY"
 seoTitle: "Tree Removal Bowling Green, KY | Best 24/7 Service"
 description: "Fallen, diseased or unwanted tree on your property? Tree removal of any size in Bowling Green, KY and Warren County. Call (270) 721-7671 for a free estimate."
+hero: "tree-removal-fallen-tree-on-house-bowling-green-ky.jpg"
+heroAlt: "Crane and crew removing a large tree fallen onto a house roof in Bowling Green, KY"
 order: 0
 ---
 
