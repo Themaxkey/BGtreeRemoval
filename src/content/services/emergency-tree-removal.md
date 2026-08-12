@@ -2,6 +2,8 @@
 title: "Emergency Tree Removal Bowling Green, KY 24/7 service"
 seoTitle: "Emergency Tree Removal Bowling Green, KY | 24/7 Response"
 description: "Storm-damaged or hazardous tree threatening your Bowling Green or Warren County home? Call (270) 721-7671 for fast, 24/7 emergency tree removal."
+hero: "emergency-tree-removal-night-bowling-green-ky.jpg"
+heroAlt: "Emergency tree removal crew clearing a storm-downed tree from a road at night"
 order: 1
 ---
 
