@@ -236,4 +236,16 @@ main { padding-bottom: 3rem; }
 .lead-form .hp { position: absolute; left: -9999px; width: 1px; height: 1px; }
 .form-note { font-size: .82rem; color: var(--muted); margin-top: 1rem; }
 
-
+/* ---------- page hero image ---------- */
+.page-hero { margin: 1.75rem 0 0; }
+.page-hero img {
+  width: 100%; height: auto; aspect-ratio: 2 / 1; object-fit: cover;
+  border-radius: var(--radius); background: var(--surface);
+}
+.page-hero figcaption {
+  margin-top: .6rem; font-size: .85rem; color: var(--muted); text-align: center;
+}
+/* images placed inline in markdown */
+.prose img { border-radius: var(--radius); margin: 1.5rem 0; }
+.prose figure { margin: 1.75rem 0; }
+.prose figcaption { font-size: .85rem; color: var(--muted); margin-top: .5rem; }
