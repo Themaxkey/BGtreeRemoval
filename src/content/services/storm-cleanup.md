@@ -2,6 +2,8 @@
 title: "Storm Cleanup in Bowling Green, KY"
 seoTitle: "Storm Cleanup Bowling Green, KY | Best 24/7 Response"
 description: "Storm cleanup in Bowling Green & Warren County clears downed limbs and trees fast. Call (270) 721-7671 for emergency debris removal after the storm."
+hero: "storm-cleanup-chipping-brush-bowling-green-ky.jpg"
+heroAlt: "Crew chipping storm-downed brush into a truck after a storm in Bowling Green, Kentucky"
 order: 4
 ---
 
