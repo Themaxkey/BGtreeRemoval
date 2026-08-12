@@ -8,6 +8,7 @@ const seo = {
   hero:        z.string().optional(),
   heroAlt:     z.string().optional(),
   tagline:     z.string().optional(),   // short human sub-headline for heroes
+  heroCaption: z.string().optional(),   // optional caption under the hero image
   noindex:     z.boolean().optional(),
 };
 
