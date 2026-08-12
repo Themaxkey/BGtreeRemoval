@@ -2,6 +2,8 @@
 title: "Tree Stump Removal in Bowling Green, KY"
 seoTitle: "Tree Stump Removal Bowling Green, KY | Stump Grinding"
 description: "Tree stump removal and stump grinding in Bowling Green, KY and Warren County. Stumps ground below grade so you can mow, plant or build. Call (270) 721-7671."
+hero: "tree-stump-removal-grinder-bowling-green-ky.jpg"
+heroAlt: "Stump grinder removing a large hardwood stump from a front lawn in Bowling Green, KY"
 order: 3
 ---
 
@@ -74,4 +76,3 @@ Warren County’s karst landscape means many Bowling Green yards sit over shallo
 ## Tree Stump Removal in Bowling Green — Get a Quote
 
 Call (270) 721-7671 for fast, affordable stump grinding in Bowling Green, KY and Warren County. Our team is ready to help with stumps of any size.
-
