@@ -2,6 +2,8 @@
 title: "Tree Services in Bowling Green, KY"
 seoTitle: "Tree Services Bowling Green, KY | Removal & Pruning"
 description: "Explore our tree services in Bowling Green, KY: emergency removal, pruning, stump grinding, storm cleanup & commercial clearing. Call today!"
+hero: "services-truck-and-chipper-bowling-green-ky.jpg"
+heroAlt: "Tree service truck and wood chipper on a residential street in Bowling Green, Kentucky"
 ---
 
 ## Our Tree Services in Bowling Green, KY
