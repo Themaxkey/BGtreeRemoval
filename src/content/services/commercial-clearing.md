@@ -2,6 +2,8 @@
 title: "Commercial Tree Removal in Bowling Green, KY"
 seoTitle: "Commercial Tree Removal & Trimming Bowling Green, KY"
 description: "Commercial tree removal and commercial tree trimming in Bowling Green, KY. Site clearing for builders, plus grounds work for businesses. Call (270) 721-7671."
+hero: "commercial-tree-removal-site-clearing-bowling-green-ky.jpg"
+heroAlt: "Commercial site clearing with excavator and crew near Bowling Green, Kentucky"
 order: 5
 ---
 
@@ -76,4 +78,3 @@ Bowling Green and Warren County have seen steady construction and development ac
 ## Get a Commercial Tree Removal Estimate
 
 Call (270) 721-7671 today to get an estimate for your commercial clearing project. We proudly serve builders, developers, and businesses throughout Bowling Green and Warren County with reliable, efficient site clearing. Contact us today to discuss your project and get a straightforward, no-obligation estimate for your clearing needs. We’re ready to get started whenever you are. Give us a call now to get things moving. We look forward to helping you finish your project on schedule. Call today. We look forward to hearing about your upcoming project soon. Let’s get started. Reach out now. We’re standing by.
-
