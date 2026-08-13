@@ -4,6 +4,21 @@
   "main": "src/server/worker.ts",
   "compatibility_date": "2026-08-01",
 
+  // Non-secret runtime values for the contact form.
+  //
+  // These MUST be declared here, not only in the Cloudflare dashboard. Every
+  // push runs `wrangler deploy`, which replaces the Worker's plain-text vars
+  // with whatever this file declares — so a variable added only in the
+  // dashboard is silently wiped by the next build and the form starts
+  // answering "not connected" again.
+  //
+  // Secrets are NOT affected by this. RESEND_KEY stays a dashboard secret,
+  // survives every deploy, and must never be committed to the repo.
+  "vars": {
+    "LEAD_TO": "maxwellhkey@gmail.com",
+    "LEAD_FROM": "Bowling Green Tree Removal <leads@bgtreeremoval.com>"
+  },
+
   // Astro builds static HTML into ./dist. Cloudflare serves those files
   // directly from its edge — static asset requests are free and unlimited.
   "assets": {

@@ -56,8 +56,6 @@ We start with a walk of the property to check access, look at what sits in the d
 
 On the day, brush is chipped as we work, wood is cut to manageable lengths, and the site is raked before we leave. If you want the wood kept for firewood, tell us and we will stack it rather than haul it off. Emergencies are handled day or night; non-urgent work is generally quicker to schedule outside storm season.
 
-## Need Help?
-
 ## Contact Us
 
 info@bgtreeremoval.com or Call us at (270)721-7671

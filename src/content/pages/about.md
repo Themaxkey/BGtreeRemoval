@@ -4,8 +4,6 @@ seoTitle: "About Us | Bowling Green Tree Removal Company"
 description: "Bowling Green tree removal, storm cleanup, pruning, stump grinding and land clearing across Warren County, KY. Call (270) 721-7671 for a free estimate."
 ---
 
-## About Us
-
 ## Tree Work Built Around South-Central Kentucky
 
 Tree work here is shaped by conditions specific to this region, and getting it right means understanding them rather than applying a generic playbook. Warren County sits on karst limestone. Storm season arrives on a predictable schedule. Certain species fail here in certain, repeatable ways. That local knowledge is the difference between a job done properly and one that creates a bigger problem than it solved.
@@ -49,5 +47,3 @@ Whether it is a single limb over your driveway or a lot that needs clearing befo
 ## Our Services
 
 Fast, safe tree removal and storm cleanup across Bowling Green and nearby areas.
-
-## Get Help

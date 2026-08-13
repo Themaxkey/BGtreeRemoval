@@ -70,7 +70,3 @@ We have a dedicated page for each community we cover, with the local detail that
 - Tree Removal in Scottsville, KY — Allen County seat, Barren River Lake area
 - Tree Removal in Glasgow, KY — Barren County seat, karst country east of Bowling Green
 - Tree Removal in Russellville, KY — Logan County seat, large historic district
-
-## Our Reach
-
-## Call Now

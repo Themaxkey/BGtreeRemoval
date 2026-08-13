@@ -8,7 +8,8 @@ description: "Contact Bowling Green Tree Removal for a free estimate. Call (270)
 
 Reach out anytime for fast, reliable tree removal.
 
-Phone Number: (270)721-7671Email: info@bgtreeremoval.com
+Phone: (270) 721-7671  
+Email: info@bgtreeremoval.com
 
 ## Get in Touch With Bowling Green Tree Removal
 
@@ -47,7 +48,3 @@ Genuine emergencies — a tree on a structure, a split trunk, a limb hanging ove
 We will not give you a firm price over the phone for a tree we have not seen. Two trees of identical height can differ enormously depending on access, what sits underneath them, and the condition of the wood. What we can do on the phone is give you a sensible ballpark and tell you what would push it up or down — and photos help a great deal with that.
 
 If the honest answer is that your tree does not need work at all, we will tell you that too.
-
-## Get Help
-
-## About Us
