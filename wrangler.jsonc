@@ -16,7 +16,12 @@
   // survives every deploy, and must never be committed to the repo.
   "vars": {
     "LEAD_TO": "maxwellhkey@gmail.com",
-    "LEAD_FROM": "Bowling Green Tree Removal <leads@bgtreeremoval.com>"
+    "LEAD_FROM": "Bowling Green Tree Removal <leads@bgtreeremoval.com>",
+
+    // Shared token the Twilio Studio flow presents when it tells us a
+    // voicemail was left. Low-value on purpose: the worst someone can do with
+    // it is email Max. If it ever gets abused, change it here and in Studio.
+    "VOICEMAIL_TOKEN": "MWt2fXuaQzWNBIKBiNKOC4R2GxNXbhCZGmcfHnw4"
   },
 
   // Astro builds static HTML into ./dist. Cloudflare serves those files
