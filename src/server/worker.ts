@@ -45,6 +45,12 @@ export default {
   },
 } satisfies ExportedHandler<Env>;
 
+/** Business name for email subjects — parsed from LEAD_FROM so it stays correct per site. */
+function businessName(env: Env): string {
+  const m = (env.LEAD_FROM ?? '').match(/^\s*(.+?)\s*</);
+  return m ? m[1] : 'Website';
+}
+
 async function handleLead(request: Request, env: Env, url: URL): Promise<Response> {
   try {
     const form    = await request.formData();
@@ -86,7 +92,7 @@ async function handleLead(request: Request, env: Env, url: URL): Promise<Respons
         from: env.LEAD_FROM,
         to: [env.LEAD_TO],
         reply_to: email || undefined,
-        subject: `New website lead — ${name}`,
+        subject: `[${businessName(env)}] New website lead — ${name}`,
         text: body,
       }),
     });
@@ -166,7 +172,7 @@ async function handleVoicemail(request: Request, env: Env, url: URL): Promise<Re
       body: JSON.stringify({
         from: env.LEAD_FROM,
         to: [env.LEAD_TO],
-        subject: `Voicemail from ${from}`,
+        subject: `[${businessName(env)}] Voicemail from ${from}`,
         text: body,
       }),
     });
