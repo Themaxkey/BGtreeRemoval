@@ -37,7 +37,7 @@ If you have lakeside trees you are unsure about, the things worth watching are e
 
 Allen County is around seventy-seven percent rural, and Scottsville is its only municipality. Most of what we do outside town is farm work: shade trees around older homesteads, windbreak rows, fence lines and field-edge growth. Access is generally good, which keeps removals efficient and the pricing sensible.
 
-Open country does mean exposure. Trees standing alone have taken wind from every direction for their whole lives, and they often carry a one-sided canopy or a slow lean as a result. Windbreak rows are the other frequent casualty, because when one tree in a row fails it commonly takes neighbours with it or leaves them suddenly exposed on a side they have never had to bear.
+Open country does mean exposure. Trees standing alone have taken wind from every direction for their whole lives, and they often carry a one-sided canopy or a slow lean as a result. Windbreak rows are the other frequent casualty, because when one tree in a row fails it commonly takes neighbors with it or leaves them suddenly exposed on a side they have never had to bear.
 
 ## Timing and Getting Us Out
 

@@ -11,7 +11,7 @@ This repository is also the **template**. To launch a new market, copy it, edit
 ## The one file that matters
 
 `site.config.ts` holds everything that differs between one site and the next:
-business name, phone, city, county, brand colours, the service list, the towns
+business name, phone, city, county, brand colors, the service list, the towns
 served. Change it and the header, footer, internal links, schema, service grid
 and town grid all follow.
 

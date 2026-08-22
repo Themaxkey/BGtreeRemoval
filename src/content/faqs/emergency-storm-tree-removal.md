@@ -11,11 +11,11 @@ Yes. We run emergency tree removal around the clock across Bowling Green and War
 
 ## What Counts as an Emergency
 
-Call straight away if a tree is on your house, garage, or vehicle; if a trunk has split or the root plate has lifted out of the ground; if a large limb is hung up in the canopy over a driveway, walkway, or anywhere people pass; or if any part of a tree is touching a power line.
+Call right away if a tree is on your house, garage, or vehicle; if a trunk has split or the root plate has lifted out of the ground; if a large limb is hung up in the canopy over a driveway, walkway, or anywhere people pass; or if any part of a tree is touching a power line.
 
 A tree that has shifted visibly since the storm counts too. Movement means something has already failed, either underground or inside the trunk, and the tree is no longer holding itself the way it was built to.
 
-What can generally wait for normal hours: small branches down in open lawn, debris well away from anything, and a tree that looks exactly as it did last week. If you are unsure which side of the line you are on, ring us and describe it — we would rather talk it through than have you guess.
+What can generally wait for normal hours: small branches down in open lawn, debris well away from anything, and a tree that looks exactly as it did last week. If you are unsure which side of the line you are on, call us and describe it — we would rather talk it through than have you guess.
 
 ## Before We Get There
 
@@ -33,7 +33,7 @@ Where a tree or limb is in contact with a power line, your electric provider nee
 
 When a line of storms crosses Warren County we take more calls in an hour than any crew can answer at once, so we triage rather than working strictly in the order calls arrive. Trees on occupied structures come first. Then trees blocking the only access in or out of a property. Then limbs hanging over spaces people use. Debris in open ground is scheduled behind all of that.
 
-If your situation deteriorates while you are waiting — a limb shifts, a crack widens, the tree settles further — call us back and say so. That genuinely changes your position in the queue.
+If your situation deteriorates while you are waiting — a limb shifts, a crack widens, the tree settles further — call us back and say so. That genuinely moves you up the list.
 
 ## What the Work Involves
 

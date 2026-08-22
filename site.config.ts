@@ -2,7 +2,7 @@
  * THE ONLY FILE THAT CHANGES BETWEEN SITES.
  *
  * Everything else in this repository reads from here: page copy, meta titles,
- * schema, internal links, the phone number, the colours. To launch a new market,
+ * schema, internal links, the phone number, the colors. To launch a new market,
  * copy this repo, edit this file, replace the content in src/content/, deploy.
  */
 
@@ -43,6 +43,20 @@ export const site = {
     body:      '#374151',
     surface:   '#f8faf8',
     logo:      '/images/logo.png',
+  },
+
+  /**
+   * Hero form copy. This lives here, not in QuoteForm.astro, because it is the
+   * ONLY part of the form that is trade-specific — and a hardcoded placeholder
+   * is exactly the class of thing that survives a clone into the next market.
+   * The Birmingham form shipped asking about "cracks in the brick"; on a tree
+   * service that would have read as nonsense to every visitor.
+   */
+  form: {
+    heading:     'Get a free estimate',
+    sub:         'Tell us where you are and what needs doing. No charge, no obligation.',
+    placeholder: 'Leaning oak over the driveway, storm damage, stump left behind…',
+    button:      'Request my free estimate',
   },
 
   legal: {

@@ -1,7 +1,7 @@
 ---
 title: "SMS Terms and Conditions"
 seoTitle: "SMS Terms and Conditions - Bowling Green Tree Removal"
-description: "Effective Date: 7/29/2026"
+description: "When Bowling Green Tree Removal will text you, how often, how to stop, and what it costs. Message and data rates may apply. Reply STOP to opt out."
 ---
 
 # SMS Terms and Conditions
@@ -30,7 +30,7 @@ You can opt out of receiving text messages at any time by replying STOP to any m
 
 ## Help
 
-For help, reply HELP to any message, or contact us directly at (270)721-7671 or Info@bgtreeremoval.com .
+For help, reply HELP to any message, or contact us directly at (270) 721-7671 or info@bgtreeremoval.com.
 
 ## Carriers
 
@@ -46,4 +46,4 @@ This program is compatible with most major US wireless carriers. Carriers are no
 
 ## Contact Us
 
-Bowling Green Tree Removal (270)721-7671 Info@bgtreeremoval.com
+Bowling Green Tree Removal (270) 721-7671 info@bgtreeremoval.com

@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 seoTitle: "Privacy Policy - Bowling Green Tree Removal"
-description: "Effective Date: 7/29/2026"
+description: "How Bowling Green Tree Removal handles the details you give us through the website or over the phone, what we keep, and who we share it with."
 ---
 
 # Privacy Policy
@@ -68,4 +68,4 @@ We may update this Privacy Policy from time to time. The effective date at the t
 
 If you have questions about this Privacy Policy or how we handle your information, contact us at:
 
-(270)721-7671 or Info@bgtreeremoval.com
+(270) 721-7671 or info@bgtreeremoval.com

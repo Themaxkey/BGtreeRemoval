@@ -19,7 +19,7 @@ None of that is a problem, but it is why a tree in a Richardsville hollow and an
 
 ## Wooded Property and Storm Damage
 
-Heavily wooded property brings its own pattern of failure. Trees grown in close competition are tall and slender with small canopies, and when one comes down it frequently brings neighbours with it or ends up hung up in the canopy of another tree. Hung-up trees are among the most dangerous situations in this line of work and are not something to tackle yourself.
+Heavily wooded property brings its own pattern of failure. Trees grown in close competition are tall and slender with small canopies, and when one comes down it frequently brings neighbors down with it or ends up hung up in the canopy of another tree. Hung-up trees are among the most dangerous situations in this line of work and are not something to tackle yourself.
 
 We handle storm cleanup, emergency removals, pruning and stump grinding throughout Richardsville and northern Warren County.
 

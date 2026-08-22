@@ -1,6 +1,6 @@
 ---
 title: "Tree Service Areas in Bowling Green, KY & Warren County"
-seoTitle: "Warren County Tree Removal | Service Areas Around Bowling Green, KY"
+seoTitle: "Tree Removal Service Area | Bowling Green & Warren County KY"
 description: "Warren County tree removal covering Bowling Green, Oakland, Smiths Grove, Alvaton, Rockfield and surrounding towns. Call (270) 721-7671 for a free estimate."
 hero: "fountain-square-park-bowling-green-ky.jpg"
 heroAlt: "Fountain Square Park in downtown Bowling Green, Kentucky"

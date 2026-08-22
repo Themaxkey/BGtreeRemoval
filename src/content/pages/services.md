@@ -58,4 +58,4 @@ On the day, brush is chipped as we work, wood is cut to manageable lengths, and 
 
 ## Contact Us
 
-info@bgtreeremoval.com or Call us at (270)721-7671
+info@bgtreeremoval.com or Call us at (270) 721-7671
