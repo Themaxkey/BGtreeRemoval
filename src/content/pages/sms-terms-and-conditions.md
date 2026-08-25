@@ -1,10 +1,10 @@
 ---
 title: "SMS Terms and Conditions"
 seoTitle: "SMS Terms and Conditions - Bowling Green Tree Removal"
+noindex: true
 description: "When Bowling Green Tree Removal will text you, how often, how to stop, and what it costs. Message and data rates may apply. Reply STOP to opt out."
 ---
 
-# SMS Terms and Conditions
 
 Effective Date: 7/29/2026
 

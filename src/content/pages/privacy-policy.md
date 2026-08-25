@@ -1,10 +1,10 @@
 ---
 title: "Privacy Policy"
 seoTitle: "Privacy Policy - Bowling Green Tree Removal"
+noindex: true
 description: "How Bowling Green Tree Removal handles the details you give us through the website or over the phone, what we keep, and who we share it with."
 ---
 
-# Privacy Policy
 
 Effective Date: 7/29/2026
 
