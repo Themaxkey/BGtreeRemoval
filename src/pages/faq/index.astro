@@ -1,18 +1,23 @@
 ---
 import { getCollection, getEntry, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { site } from '../../../site.config';
 
 const entry = await getEntry('pages', 'faq');
 const faqs  = await getCollection('faqs');
 const { Content } = entry ? await render(entry) : { Content: null as any };
+// Fallback must be derived from site.config, never hardcoded to one market —
+// a stale fallback silently ships another city's copy.
 const d: any = entry?.data ?? {
-  title: 'Tree Service FAQs',
-  seoTitle: 'Tree Service FAQs | Bowling Green, KY',
-  description: 'Answers to common tree service questions in Bowling Green, Kentucky.',
+  title: 'FAQ',
+  seoTitle: `${site.trade.noun.replace(/\b\w/g, (c) => c.toUpperCase())} FAQs | ${site.location.city}, ${site.location.stateAbbr}`,
+  description: `Answers to common ${site.trade.noun} questions in ${site.location.city}, ${site.location.state}.`,
 };
 ---
 <BaseLayout seoTitle={d.seoTitle} description={d.description} pageType="faq">
   <div class="wrap page-head">
+    <Breadcrumbs kind="page" name={d.title} path="/faq/" />
     <h1>{d.title}</h1>
   </div>
   <div class="wrap">
